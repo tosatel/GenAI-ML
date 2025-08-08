@@ -1,0 +1,12 @@
+jupyterlab
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+transformers
+plotly
+xgboost
+lightgbm
